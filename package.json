@@ -1,0 +1,23 @@
+{
+  "name": "asd-vedvati",
+  "version": "1.0.0",
+  "description": "A sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallshubham/vedvati-repo.git"
+  },
+  "keywords": [
+    "test",
+    "vedvati"
+  ],
+  "author": "Shubham Aundhekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallshubham/vedvati-repo/issues"
+  },
+  "homepage": "https://github.com/tallshubham/vedvati-repo#readme"
+}
